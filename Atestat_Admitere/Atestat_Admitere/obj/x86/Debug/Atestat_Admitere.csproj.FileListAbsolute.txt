@@ -1,0 +1,7 @@
+D:\Atestat_Admitere\Atestat_Admitere\bin\Debug\Atestat_Admitere.exe
+D:\Atestat_Admitere\Atestat_Admitere\bin\Debug\Atestat_Admitere.pdb
+D:\Atestat_Admitere\Atestat_Admitere\obj\x86\Debug\Atestat_Admitere.Form1.resources
+D:\Atestat_Admitere\Atestat_Admitere\obj\x86\Debug\Atestat_Admitere.Properties.Resources.resources
+D:\Atestat_Admitere\Atestat_Admitere\obj\x86\Debug\Atestat_Admitere.csproj.GenerateResource.Cache
+D:\Atestat_Admitere\Atestat_Admitere\obj\x86\Debug\Atestat_Admitere.exe
+D:\Atestat_Admitere\Atestat_Admitere\obj\x86\Debug\Atestat_Admitere.pdb
